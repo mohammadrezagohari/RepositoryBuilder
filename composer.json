@@ -14,5 +14,10 @@
             "email": "m.gohari@drdr.doctor"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "mockery/mockery": "^1.6"
+    },
+    "config": {
+        "sort-packages": true
+    }
 }
