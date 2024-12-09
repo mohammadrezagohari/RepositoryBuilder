@@ -1,0 +1,18 @@
+{
+    "name": "mohammadrezagohari/repository-builder",
+    "description": "it's a package for building a domain and repository with their contract",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mohammadrezagohari\\RepositoryBuilder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "drdr",
+            "email": "m.gohari@drdr.doctor"
+        }
+    ],
+    "require": {}
+}
